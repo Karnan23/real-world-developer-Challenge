@@ -1,6 +1,6 @@
 # 🧠 Day 8 – Automated System Health Monitor
 <br/>
----
+
 ## 🔍 Overview
 
 The **System Health Monitor** is a real-world automation tool built using pure Python.
@@ -12,13 +12,13 @@ This project mimics a lightweight internal monitoring agent — similar to what 
 
 ## ⚙️ Key Features
 
-✅ Real-time system health tracking using psutil
-✅ Logs CPU, RAM, and Disk usage in both console and file
-✅ Configurable thresholds via .env file
-✅ Email alerts for abnormal system usage
-✅ Appends each check to a persistent report file
-✅ Modular architecture (main.py, monitor.py, utils.py)
-✅ Works cross-platform (Windows / Linux / macOS)
+- ✅ Real-time system health tracking using psutil
+- ✅ Logs CPU, RAM, and Disk usage in both console and file
+- ✅ Configurable thresholds via .env file
+- ✅ Email alerts for abnormal system usage
+- ✅ Appends each check to a persistent report file
+- ✅ Modular architecture (main.py, monitor.py, utils.py)
+- ✅ Works cross-platform (Windows / Linux / macOS)
 
 ---
 
