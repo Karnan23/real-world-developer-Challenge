@@ -1,0 +1,41 @@
+# ---- Python Cache ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ---- Virtual Environment ----
+venv/
+.env/
+.env.bak
+.venv/
+
+# ---- Logs & Reports ----
+Logs/
+Reports/
+*.log
+*.json
+
+# ---- System Files ----
+.DS_Store
+Thumbs.db
+
+# ---- IDE/Editor Config ----
+.vscode/
+.idea/
+
+# ---- Backup / Temp Files ----
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# ---- Credentials ----
+*.env
+app_secrets.json
+config.json
+
+# ---- Python Build Files ----
+build/
+dist/
+*.egg-info/
